@@ -32,15 +32,27 @@
 7.	```ipfs init```
 
 
-![image](https://github.com/user-attachments/assets/de6ea7cd-8ef6-4a29-b4e2-eeaf19aef8a4)
+![ipfs 1](https://github.com/user-attachments/assets/4725c9fe-42ed-4374-b968-8fc535ea5d73)
+![ipfs  11](https://github.com/user-attachments/assets/19bd07a1-4d96-4c26-9adc-14e51b5de4cf)
+#
+ipfs daemon
+``
+![ipfs2](https://github.com/user-attachments/assets/2e1fe74b-31a9-44a6-900d-91f860f1e5e0)
+![IP2 1](https://github.com/user-attachments/assets/d98bab28-8e4a-4480-ad6a-2de540d6900d)
 
-8.	```ipfs daemon```
 
-![image](https://github.com/user-attachments/assets/6a10cf52-23bf-4e2d-a928-63a3b2903934)
+	
 
-9.	```On Browser: http://127.0.0.1:5001/webui```
+
+10.	```On Browser: http:![Uploading ipfs .11.PNG…]()
+//127.0.0.1:5001/webui```
+
+![IP3](https://github.com/user-attachments/assets/85ed6126-cb2f-4bf6-9b3f-c53480228112)
+
+
+
     
-![image](https://github.com/user-attachments/assets/4b2f5b7d-97f4-40b9-aca5-c49eda849ec2)
+
 
 10.	```To run ipfs daemon in background: ipfs daemon > ipfs.log 2>&1 &```
 	
@@ -50,7 +62,8 @@
 	
 13.	```ipfs add hello.txt```
 
-![image](https://github.com/user-attachments/assets/351e47a6-f4dc-4e7f-960d-87c010f29de7)
+![IP4](https://github.com/user-attachments/assets/e4544b10-a774-4a07-9500-28ce2d852d7b)
+
 
 14.``` ipfs cat <CID>```
 
@@ -66,9 +79,13 @@
 	
 18.	```kill <PID>```
 
-![image](https://github.com/user-attachments/assets/748f809b-d78d-4394-aa64-95014a40c5d4)
+![IP5](https://github.com/user-attachments/assets/f142d4af-a968-4db4-a66e-6dec0bdccd0d)
 
-![image](https://github.com/user-attachments/assets/60833717-edf5-4c71-9494-3b8e54123ca5)
+
+![IP5 1](https://github.com/user-attachments/assets/92b02112-3de2-43d7-a86e-b04d9cbba82c)
+![ip6](https://github.com/user-attachments/assets/f6c70b6a-783e-4326-82a6-599526a18576)
+
+
 
 19.	```In Browser you can directly run this to see the IPFS: https://ipfs.io/ipfs/QmWd9cavD8UGZQcqYBVhZqs2Jure5W9cgxR7S6TC4StfZe```
 
@@ -91,4 +108,5 @@
 	
 7.	```ipfs add decrypted_file.txt```
 
-![image](https://github.com/user-attachments/assets/2193dfec-be9f-47fd-91ec-99f266cdf1e6)
+![ip7](https://github.com/user-attachments/assets/871e5b89-ad73-46d9-9fc4-13d95e4ef39f)
+
